@@ -10,20 +10,6 @@ Customer Loyalty: Evaluating loyalty points and customer ratings.
 Supplier Performance: Analyzing supplier contributions and return rates.
 Regional Analysis: Mapping sales and customer density by location.
 
-File Structure
-
-PowerBI-MultiPage-Dashboard/
-├── Data/
-│   ├── Sales.csv                 # Sales dataset
-│   ├── Purchases.csv             # Purchase dataset
-│   ├── Countries.csv             # Regional dataset
-├── Screenshots/
-│   ├── Page1_Overview.png        # Screenshot of the Overview page
-│   ├── Page2_SalesAnalysis.png   # Screenshot of the Sales Analysis page
-│   └── ... (screenshots of other pages)
-├── Analysis and Visuals
-├── README.md                     # Documentation file
-
 Technologies Used
 Power BI Features
 
